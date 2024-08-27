@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Visual Karsys](https://www.visualkarsys.com/)
 
-- 🌱 I’m currently learning **SQL and PostreSQL**
+- 🌱 I’m currently learning **SQL and PostgreSQL**
 
 - 📫 How to reach me **maxalexcndrt@gmail.com**
 
